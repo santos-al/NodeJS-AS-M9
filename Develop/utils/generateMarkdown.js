@@ -77,7 +77,9 @@ function generateMarkdown(data) {
   * [Questions](#questions)
 
   ## Installation
-  \`\`\`${data.dependenciesCommand}\`\`\`
+  \`\`\`
+  ${data.dependenciesCommand}
+  \`\`\`
 
   ## Usage
   ${data.userRepoDescription}
@@ -89,7 +91,9 @@ function generateMarkdown(data) {
   ${data.userRepoContribution}
 
   ## Tests
-  \`\`\`${data.testsCommand}\`\`\`
+  \`\`\`
+  ${data.testsCommand}
+  \`\`\`
 
   ## Questions
 

@@ -1,4 +1,4 @@
-# Project
+# Name
   ## Description
    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris pellentesque pulvina
 
@@ -17,24 +17,28 @@
   * [Questions](#questions)
 
   ## Installation
-  ``` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris pellentesque pulvina```
+  ```
+  npm i
+  ```
 
   ## Usage
    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris pellentesque pulvina
 
   ## License
-   
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
 
-  
+  (https://opensource.org/licenses/MIT)
 
   ## Contributing
   r pellentesque habitant morbi. Consequat semper viverra nam libero justo laoreet sit amet.
 
   ## Tests
-  ```npm test```
+  ```
+  npm test
+  ```
 
   ## Questions
 
   If you have any questions about this project, please send me an email alex@gmail.com. 
-  You can find more of my work at [santos-al](https://github.com/santos-al/).
+  You can find more of my work at [santosal](https://github.com/santosal/).
 
