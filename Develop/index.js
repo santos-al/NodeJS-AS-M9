@@ -64,8 +64,8 @@ function writeToFile(fileName, data) {
 // init function to run inquirer prompts
 function init() {
   inquirer.prompt(questions)
-.then((data) => {
-    writeToFile('README.md', data);
+    .then((data) => {
+      writeToFile('README.md', data);
 });
 
 }
