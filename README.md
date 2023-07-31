@@ -1,18 +1,44 @@
-# NodeJS-AS-M9
-Professional ReadMe generator
+# ReadMe Generator
+  ## Description
+  This application allows users to easily create ReadMe for their projects. By running this on the terminal developers can easily create a ReadMe without spending too much time. After answering a few question this app creates all the data and uses to document important information about an app. This way programmers can spend less time documenting and more time creating. Also this ReadMe was created using the ReadMe generator.
 
-GIVEN a command-line application that accepts user input
-WHEN I am prompted for information about my application repository
-THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
-WHEN I enter my project title
-THEN this is displayed as the title of the README
-WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
-THEN this information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
-WHEN I choose a license for my application from a list of options
-THEN a badge for that license is added near the top of the README and a notice is added to the section of the README entitled License that explains which license the application is covered under
-WHEN I enter my GitHub username
-THEN this is added to the section of the README entitled Questions, with a link to my GitHub profile
-WHEN I enter my email address
-THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-WHEN I click on the links in the Table of Contents
-THEN I am taken to the corresponding section of the README
+  ## Table of Contents
+
+  * [Installation](#installation)
+
+  * [Usage](#usage)
+
+  * [License](#license)
+
+  * [Contributing](#contributing)
+
+  * [Tests](#tests)
+
+  * [Questions](#questions)
+
+  ## Installation
+  ```
+  npm install
+  ```
+
+  ## Usage
+  To use this application go into your terminal and run 'node index' to begin filling out the necessary questions to generate your ReadMe.
+
+  ## License
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
+
+  (https://opensource.org/licenses/MIT)
+
+  ## Contributing
+  For the time being this application is complete and does not require any further changes.
+
+  ## Tests
+  ```
+  npm run test
+  ```
+
+  ## Questions
+
+  If you have any questions about this project, please send me an email santosal2018@gmail.com. 
+  You can find more of my work at [santos-al](https://github.com/santos-al/).
+
